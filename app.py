@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import requests
-from streamlit_lottie import st_lottie
 from state import plot_state
 from years import plot_year
 from variables import terms, year_vals
