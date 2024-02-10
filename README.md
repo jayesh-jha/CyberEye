@@ -1,16 +1,6 @@
 # CyberEye: Unveiling Cyber Crime Trends
 --> Utilized data analysis techniques to create insightful visualizations from 2017-2021 Cybercrime data sourced from National Crime Records Bureau(NCRB), highlighting trends in acquittal rates, arrests, cases registered, etc.
 
-## Screenshots
-![img](images/pic2.JPG)
-
-![img](images/pic3.JPG)
-
-![img](images/pic1.JPG)
-
-![img](images/pic5.JPG)
-
----
 ## Project Structure
 - **'data/'** : CSV files that store cybercrime data, collected from NCRB, from 2017 to 2021
 - **'Scraper'** : Google Colab file that contains the code for the web scraper. [link](https://colab.research.google.com/drive/1SBmBehg6YMJuS-XGfIz9FBo6Gpk_zB3O?authuser=4#scrollTo=SEBuN6SHxJJ8)
@@ -29,3 +19,13 @@
 - **BeautifulSoup** : used for *Web Scraping*, and gathering data from the [NCRB website](https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=1883066)
 - **Pandas** : used for *Data Analysis*, i.e. to clean & organize data, and to find various trends.
 - **Streamlit** : used to create interactive *Web App*, and to display trends & visualizations
+
+---
+## Screenshots
+![img](images/pic2.JPG)
+
+![img](images/pic3.JPG)
+
+![img](images/pic1.JPG)
+
+![img](images/pic5.JPG)
